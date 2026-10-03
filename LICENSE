@@ -1,0 +1,31 @@
+MIT License
+
+Copyright (c) 2026 Ali Hassan (modifications and refactor)
+Copyright (c) the original authors of Subscription-Bomb, including Chung Man Cheng
+(https://github.com/ChungmanCheng/Subscription-Bomb)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+Intended use (not a license restriction, but the purpose of this project):
+this software is for learning and for testing newsletter forms with email
+addresses and services that you own or are explicitly authorized to test.
+Do not use it to send unsolicited subscriptions, flood inboxes, or bypass
+CAPTCHAs, rate limits or other protections. You are responsible for
+complying with the law and with the terms of every site you interact with.
