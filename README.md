@@ -107,7 +107,7 @@ python main.py
 
 You should see the banner and the main menu:
 
-![Main menu](screenshots/Main-Menu.png)
+![Main menu](screenshots/main-menuuuuuu.png)
 
 ## 7. The menu, option by option
 
