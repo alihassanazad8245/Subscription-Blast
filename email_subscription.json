@@ -1,0 +1,3029 @@
+[
+  {
+    "url": "https://www.thecut.com/promo/cut-shop-newsletter-sign-up.html",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Sign up"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://newsletter.defitimes.io/about",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://nocodelandscape.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://newsletter.spaceknown.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.axios.com/signup/pro-rata",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://fastlane-fleet.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Don't miss out on the ride of a lifetime!"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://thehumansintheloop.substack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://newsletter.betterstack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://unconventional-empires.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Join Us! "
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.aididthat.com/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://palealetravel.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://astukari.substack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://jbrworks.substack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://standardhoy.substack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://insightsinnovationecon.substack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://kapansrt.substack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://coinbrain.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://deascentiis.substack.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://daily.thecore.email/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": " Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://worldofai.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://the-baseline.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://linkedinprompts.beehiiv.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "value": "Subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.theatlantic.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email"
+        }
+      ],
+      "submit": [
+        {
+          "class": "NewslettersSignupBar_button__H1vw5"
+        }
+      ],
+      "checkboxes": [
+        {
+          "class": "NewsletterCard_buttonIcon__gCltK"
+        }
+      ],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://news.un.org/en/content/un-newsletter-subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "EMAIL"
+        }
+      ],
+      "submit": [
+        {
+          "name": "subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.cnn.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#newsletter-subscribe-email-input"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#newsletter-subscribe-button"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [
+        {
+          "css": "button[data-zjs-newsletter=\"breaking_news\"]"
+        }
+      ],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.buzzfeed.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input.newsletter-form_input__YBirI"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [
+        {
+          "css": "button",
+          "index": 6
+        }
+      ],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://dailyyonder.com/contact-us/subscribe-daily-yonder",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#newspack-subscribe-1 input[name=\"npe\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#newspack-subscribe-1 button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.merriam-webster.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]",
+          "visible": true
+        }
+      ],
+      "submit": [
+        {
+          "css": "input[name=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://blog.google/newsletter-subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#uni_subscribe_email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button[aria-label=\"Subscribe\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://thefinancialbrand.com/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#input_189_3"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#gform_submit_button_189"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://gfmag.com/subscribe-to-our-weekly-newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#input_59_1"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#gform_submit_button_59"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.globalethicalfinance.org/contact/subscribe-to-the-inner-circle",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#mce-EMAIL"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#mc-embedded-subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.bloomberg.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email-form-input"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button[name=\"outlined-button\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [
+        {
+          "css": "button[name=\"button\"]",
+          "index": 2
+        }
+      ],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://sciencex.com/help/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#nwsub button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://carnegiescience.edu/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#tfa_1"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#submit_button"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.popsci.com/email-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.newsletter-direct-link"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.nationalacademies.org/subscribe-to-email",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "form[aria-label=\"HubSpot Form\"] input[name=\"0-1/email\"]",
+          "frame_index": 0
+        }
+      ],
+      "submit": [
+        {
+          "css": "form[aria-label=\"HubSpot Form\"] button[type=\"submit\"]",
+          "frame_index": 0
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://coursesandconferences.wellcomeconnectingscience.org/contact-us/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#textbox-11",
+          "frame_index": 0
+        }
+      ],
+      "submit": [
+        {
+          "css": "#consent-12",
+          "frame_index": 0
+        }
+      ],
+      "checkboxes": [
+        {
+          "css": "#consent-12",
+          "frame_index": 0
+        }
+      ],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://ufhealth.org/making-the-rounds-uf-health-newsletter-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#fui-storiesNewsletter-ttudcp-fields-newsletterEmail"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#fui-storiesNewsletter-ttudcp button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.patreasury.gov/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#mce-EMAIL"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#mc-embedded-subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.ecomengine.com/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email-f6e39f88-22b2-4808-9a49-7d3a41e2ad4e_5481"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#hsForm_f6e39f88-22b2-4808-9a49-7d3a41e2ad4e_5481 input[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.delish.com/email/delish-newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#Email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.hds-do-not-use"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://smittenkitchen.com/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#submit"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.travelcaffeine.com/free-travel-newsletter-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "input[name=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.friendlyplanet.com/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input.w-full"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.cursor-pointer"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.intrepidtravel.com/us/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#field161107816"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#fsSubmitButton5667295"
+        }
+      ],
+      "checkboxes": [
+        {
+          "css": "#field161107828_1"
+        }
+      ],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.travelingwithkristin.com/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#_form_3_submit"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://indianasportscorp.org/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#field180616092"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#fsSubmitButton6108376"
+        }
+      ],
+      "checkboxes": [
+        {
+          "css": "#field180616249_1"
+        },
+        {
+          "css": "#field180616249_2"
+        },
+        {
+          "css": "#field180616249_3"
+        },
+        {
+          "css": "#field180616249_4"
+        },
+        {
+          "css": "#field180616249_5"
+        },
+        {
+          "css": "#field180616249_6"
+        },
+        {
+          "css": "#field180616249-all"
+        }
+      ],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.ncaa.com/newsletter-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#bz_emailAddress"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#imv6gi"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://moveunitedsport.org/newsletter-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#gform_316 input[name=\"input_3\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#gform_submit_button_316"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://frontofficesports.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#input_128_1"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#gform_submit_button_128"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.baldwinhealth.com/enewsletter-sign-up",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#Email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#mktoForm_1418 button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.everydayhealth.com/newsletter-subscriptions/signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email-32\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.newsletter-sign-up__form-button"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.optum.com/en/care/newsletter-signup.html",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#textinput-0187bfeaa7-widget"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#submit-fdd83cb0b5-widget"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://links.e.response.mayoclinic.org/Newsletter-SignUp",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#fe2724"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#fe2729"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.healthline.com/newsletter-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]",
+          "visible": true
+        }
+      ],
+      "submit": [
+        {
+          "css": "button[aria-label=\"SIGN UP\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.cdc.gov/other/emailupdates/index.html",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#userID"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#govd-subscribe button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.foodbusinessnews.net/newsletter_subscriptions",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"answer_1161528\"]",
+          "frame_index": 4
+        }
+      ],
+      "submit": [
+        {
+          "css": "#quiz-form button[type=\"submit\"]",
+          "frame_index": 4
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://sports.yahoo.com/newsletters/yahoo-sports-am",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#newsletter-email-input-field"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#newsletter-subscribe-btn"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.theculturefactor.com/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email-d86e75f3-4440-44db-be19-df33f6fb670f_7058"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#hsForm_d86e75f3-4440-44db-be19-df33f6fb670f_7058 input[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.opportunityculture.org/mailing-list",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#_form_4_submit"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://philaculture.org/newsletter-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#mce-EMAIL"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#mc-embedded-subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://slate.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#newsletter-email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#author-alerts-save"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://theempoweredauthor.com/free-newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email_address\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.formkit-submit"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.hachettebookgroup.com/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email_01KM0X9F7F2DWDXA0P8XEVCMPK"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.needsclick"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://randomhousebooks.com/email",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.signup-button"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.future-ed.org/newsletter-sign-up",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#input_1_1"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#gform_submit_button_1"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://teachforall.org/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#tfa_3",
+          "frame_index": 0
+        }
+      ],
+      "submit": [
+        {
+          "css": "#submit_button",
+          "frame_index": 0
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.innovativeeducators.org/pages/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email-input",
+          "frame_index": 3
+        }
+      ],
+      "submit": [
+        {
+          "css": "button[name=\"SUBSCRIBE\"]",
+          "frame_index": 3
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://public.govdelivery.com/accounts/USDE/signup/49108",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#signup-email-address",
+          "frame_index": 0
+        }
+      ],
+      "submit": [
+        {
+          "css": "button[type=\"submit\"]",
+          "frame_index": 0
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://onebillionresilient.org/email-subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email-597af23b-1ef5-4a55-84ed-770dfc0ff796"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#hsForm_597af23b-1ef5-4a55-84ed-770dfc0ff796 input[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.climatecentral.org/list-signup",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input.styles_input__RWJid",
+          "visible": true
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.styles_button__SClj0"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://yaleclimateconnections.org/newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#newspack-subscribe-1 input[name=\"npe\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#newspack-subscribe-1 button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/subscribe-to-our-newsletters",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#edit-email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#edit-actions-submit"
+        }
+      ],
+      "checkboxes": [
+        {
+          "css": "#edit-interests-70080903"
+        }
+      ],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.climatebonds.net/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#form-input-emailAddress"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button[name=\"form_page_submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.utahnonprofits.org/sign-up-for-our-newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"Email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "input.mn-subscribe-button"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.councilofnonprofits.org/connect",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email-Primary"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#_qf_Edit_next"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://reallygoodemails.com/subscribe",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#wf-form-rge-subscribe-lp-hero-form input[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://techcrunch.com/newsletters/techcrunch-daily-news",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.btn__link"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.developerdotstar.com/mag/subscribe.html",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "input[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.guidewire.com/developers/developer-resources/developer-newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "#Email"
+        }
+      ],
+      "submit": [
+        {
+          "css": "#mktoForm_5380 button[type=\"submit\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://www.timeanddate.com/newsletter",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "form[name=\"nl_fs\"] input[name=\"email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "form[name=\"nl_fs\"] input[name=\"subscribebut\"]"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://tldr.tech/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "css": "input[name=\"email\"]"
+        }
+      ],
+      "submit": [
+        {
+          "css": "button.rounded"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://thisweekinreact.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "email_address"
+        }
+      ],
+      "submit": [
+        {
+          "class": "formkit-submit"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://webtoolsweekly.com/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "EMAIL"
+        }
+      ],
+      "submit": [
+        {
+          "name": "subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://vscode.email/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "EMAIL"
+        }
+      ],
+      "submit": [
+        {
+          "name": "subscribe"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://dotnetnews.co/",
+    "name": "",
+    "status": "configured",
+    "source": "imported",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [
+        {
+          "name": "EMAIL"
+        }
+      ],
+      "submit": [
+        {
+          "class": "js-submit-button"
+        }
+      ],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 5,
+      "username": [],
+      "phone": [],
+      "selections": []
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": null,
+    "last_test": null
+  },
+  {
+    "url": "https://weeklypython.substack.com",
+    "name": "Weekly Python (Substack)",
+    "status": "discovered",
+    "source": "curated",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [],
+      "submit": [],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": {
+      "state": "ok",
+      "detail": "2026-10-02: page content retrieved and shows signup text (HTTP-level check only; form not yet tested in Firefox)",
+      "at": "2026-10-02T00:00:00+00:00"
+    },
+    "last_test": null
+  },
+  {
+    "url": "https://pycoders.com",
+    "name": "PyCoder's Weekly",
+    "status": "discovered",
+    "source": "curated",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [],
+      "submit": [],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": {
+      "state": "ok",
+      "detail": "2026-10-02: page content retrieved and shows signup text (HTTP-level check only; form not yet tested in Firefox)",
+      "at": "2026-10-02T00:00:00+00:00"
+    },
+    "last_test": null
+  },
+  {
+    "url": "https://www.nasa.gov/learning-resources/nasa-express-newsletter-sign-up",
+    "name": "NASA EXPRESS newsletter sign-up",
+    "status": "discovered",
+    "source": "curated",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [],
+      "submit": [],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": {
+      "state": "ok",
+      "detail": "2026-10-02: page content retrieved and shows signup text (HTTP-level check only; form not yet tested in Firefox)",
+      "at": "2026-10-02T00:00:00+00:00"
+    },
+    "last_test": null
+  },
+  {
+    "url": "https://sealevel.nasa.gov/newsletter-signup",
+    "name": "NASA Sea Level Change newsletter",
+    "status": "discovered",
+    "source": "curated",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [],
+      "submit": [],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": {
+      "state": "ok",
+      "detail": "2026-10-02: page content retrieved and shows signup text (HTTP-level check only; form not yet tested in Firefox)",
+      "at": "2026-10-02T00:00:00+00:00"
+    },
+    "last_test": null
+  },
+  {
+    "url": "https://wenger-trayner.com/newsletter",
+    "name": "Wenger-Trayner newsletter",
+    "status": "discovered",
+    "source": "curated",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [],
+      "submit": [],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": {
+      "state": "ok",
+      "detail": "2026-10-02: page content retrieved and shows signup text (HTTP-level check only; form not yet tested in Firefox)",
+      "at": "2026-10-02T00:00:00+00:00"
+    },
+    "last_test": null
+  },
+  {
+    "url": "https://www.smithsonianmag.com/newsletters",
+    "name": "Smithsonian magazine newsletters",
+    "status": "discovered",
+    "source": "curated",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [],
+      "submit": [],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": {
+      "state": "ok",
+      "detail": "2026-10-02: page content retrieved and shows signup text (HTTP-level check only; form not yet tested in Firefox)",
+      "at": "2026-10-02T00:00:00+00:00"
+    },
+    "last_test": null
+  },
+  {
+    "url": "https://gardens.si.edu/newsletter",
+    "name": "Smithsonian Gardens newsletter",
+    "status": "discovered",
+    "source": "curated",
+    "added": "2026-10-02T00:00:00+00:00",
+    "input_fields": {
+      "email": [],
+      "submit": [],
+      "checkboxes": [],
+      "radios": [],
+      "pre_clicks": [],
+      "wait": 0
+    },
+    "verification": {
+      "sender_hint": "",
+      "subject_hint": ""
+    },
+    "last_check": {
+      "state": "ok",
+      "detail": "2026-10-02: page content retrieved and shows signup text (HTTP-level check only; form not yet tested in Firefox)",
+      "at": "2026-10-02T00:00:00+00:00"
+    },
+    "last_test": null
+  }
+]
