@@ -22,8 +22,8 @@ APP_VERSION = "2.0.0"
 # Credits shown on the CLI exit screen and in the README.
 AUTHOR = "Ali Hassan"
 INSTAGRAM = "ali_hassan8245"
-ORIGINAL_AUTHOR = "Chung Man Cheng"
-ORIGINAL_REPO = "https://github.com/ChungmanCheng/Subscription-Bomb"
+ORIGINAL_AUTHOR = "Ali Hassan"
+ORIGINAL_REPO = "https://github.com/alihassanazad8245/Subscription-Blast.git"
 
 DEFAULT_SEARCH_URL = "https://api.tavily.com/search"
 _EMAIL_RE = re.compile(r"^[^@\s,;]+@[^@\s,;]+\.[^@\s,;]{2,}$")

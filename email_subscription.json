@@ -33,35 +33,41 @@
   },
   {
     "url": "https://newsletter.defitimes.io/about",
-    "name": "",
-    "status": "configured",
+    "name": "About - DEFI TIMES Newsletter",
+    "status": "verified",
     "source": "imported",
     "added": "2026-10-02T00:00:00+00:00",
     "input_fields": {
       "email": [
         {
-          "name": "email"
+          "css": "input[name=\"email\"]"
         }
       ],
       "submit": [
         {
-          "class": "subscribe-btn"
+          "css": "button.pencraft",
+          "visible": true
         }
       ],
       "checkboxes": [],
       "radios": [],
       "pre_clicks": [],
-      "wait": 5,
-      "username": [],
-      "phone": [],
-      "selections": []
+      "wait": 5
     },
     "verification": {
       "sender_hint": "",
       "subject_hint": ""
     },
-    "last_check": null,
-    "last_test": null
+    "last_check": {
+      "at": "2026-10-03T02:23:03+00:00",
+      "state": "ok",
+      "detail": "form inspected"
+    },
+    "last_test": {
+      "at": "2026-10-03T02:23:22+00:00",
+      "outcome": "submitted",
+      "detail": "form was submitted but the page gave no clear confirmation"
+    }
   },
   {
     "url": "https://nocodelandscape.beehiiv.com/",
@@ -2661,8 +2667,8 @@
   },
   {
     "url": "https://www.timeanddate.com/newsletter",
-    "name": "",
-    "status": "configured",
+    "name": "Newsletters from timeanddate.com",
+    "status": "verified",
     "source": "imported",
     "added": "2026-10-02T00:00:00+00:00",
     "input_fields": {
@@ -2679,17 +2685,22 @@
       "checkboxes": [],
       "radios": [],
       "pre_clicks": [],
-      "wait": 0,
-      "username": [],
-      "phone": [],
-      "selections": []
+      "wait": 0
     },
     "verification": {
       "sender_hint": "",
       "subject_hint": ""
     },
-    "last_check": null,
-    "last_test": null
+    "last_check": {
+      "at": "2026-10-03T02:33:03+00:00",
+      "state": "ok",
+      "detail": "form inspected"
+    },
+    "last_test": {
+      "at": "2026-10-03T02:33:25+00:00",
+      "outcome": "confirmed_on_page",
+      "detail": "the page showed a thank-you / confirmation message"
+    }
   },
   {
     "url": "https://tldr.tech/",
@@ -2789,8 +2800,8 @@
   },
   {
     "url": "https://vscode.email/",
-    "name": "",
-    "status": "configured",
+    "name": "VSCode.Email | A Newsletter featuring apps, news, tips, and tricks for VS Code",
+    "status": "failed",
     "source": "imported",
     "added": "2026-10-02T00:00:00+00:00",
     "input_fields": {
@@ -2816,7 +2827,11 @@
       "sender_hint": "",
       "subject_hint": ""
     },
-    "last_check": null,
+    "last_check": {
+      "at": "2026-10-03T02:32:16+00:00",
+      "state": "no_form",
+      "detail": "no usable newsletter form found"
+    },
     "last_test": null
   },
   {
@@ -2852,7 +2867,7 @@
     "last_test": null
   },
   {
-    "url": "https://weeklypython.substack.com",
+    "url": "https://weeklypython.substack.com/",
     "name": "Weekly Python (Substack)",
     "status": "discovered",
     "source": "curated",
@@ -2877,7 +2892,7 @@
     "last_test": null
   },
   {
-    "url": "https://pycoders.com",
+    "url": "https://pycoders.com/",
     "name": "PyCoder's Weekly",
     "status": "discovered",
     "source": "curated",

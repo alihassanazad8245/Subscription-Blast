@@ -274,8 +274,6 @@ The main menu is shown above. Screenshots of the form-inspection and result scre
 **Made by Ali Hassan**
 Instagram: [@ali_hassan8245](https://instagram.com/ali_hassan8245)
 
-This project is a refactor of the original **Subscription-Bomb** by Chung Man Cheng - https://github.com/ChungmanCheng/Subscription-Bomb. Thanks to the original author for the foundation. The same credits appear on the CLI exit screen.
-
 ## 17. License and intended use
 
 Released under the **MIT License** - see [LICENSE](LICENSE). The copyright notice credits both this refactor and the original authors; if you publish this repository, please confirm that the original project's license/permission allows redistribution.
